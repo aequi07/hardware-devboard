@@ -13,5 +13,11 @@ i got the board and i was reading the tutorial to figure out what/who/when/where
 
 **Total time spent: 1 hours**
 
+# November 21: USB-C
 
+I finally got all the USB-C input thingies connected, including capacitors and the voltage controler and some resistors.
+
+<img width="935" height="723" alt="image" src="https://github.com/user-attachments/assets/06ad4733-969d-4225-97cc-e25276becff6" />
+
+**Total time spent: 2 hours**
 
